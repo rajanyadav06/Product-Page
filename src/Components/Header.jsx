@@ -101,7 +101,6 @@ function Header() {
           </div>
         </div>
       </nav>
-
       <div className="main-content">
         <div className="products-container">
           <div className="header">
