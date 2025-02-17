@@ -1,15 +1,13 @@
-import React from 'react'
-import Product from './Components/Product'
-import Header from './Components/Header'
+import React from "react";
+import Header from "./Components/Header";
+import { Outlet } from "react-router-dom";
 function App() {
-
   return (
     <>
-      <h1 className=' flex items-center justify-center'>Hello Team. <span className=' font-bold text-3xl'>4</span></h1>
-      {/* <Product /> */}
-      <Header/>
+      <Header />
+      <Outlet />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
