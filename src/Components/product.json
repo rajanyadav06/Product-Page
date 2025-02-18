@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Banking as a Service",
+    "description": "Digital banking services, designed for scale",
+    "tag": "BAAS",
+    "icon": "🏦",
+    "route": "banking-as-service"
+  },
+  {
+    "id": 2,
+    "title": "Payments as a Service",
+    "description": "Create the perfect payment experience",
+    "tag": "PAAS",
+    "icon": "💳",
+    "route": "payment-as-service"
+  },
+  {
+    "id": 3,
+    "title": "Banking as a Platform",
+    "description": "Seamlessly integrate digital financial services",
+    "tag": "BAAP",
+    "icon": "🔄",
+    "route": "banking-as-platform"
+  },
+  {
+    "id": 4,
+    "title": "Cronica",
+    "description": "Securely generate, authenticate, and retrieve programmable documents.",
+    "tag": "CRONICA",
+    "icon": "📄",
+    "route": "cronica"
+  }
+]
